@@ -1,0 +1,6 @@
+---
+title: thoughts
+date: 
+description: 
+---
+
